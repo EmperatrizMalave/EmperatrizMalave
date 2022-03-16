@@ -1,4 +1,4 @@
-### Hi i’m Emperatriz 👋
+### Hi, i’m Emperatriz 👋
 
 <!--
 **EmperatrizMalave/EmperatrizMalave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
